@@ -1,0 +1,30 @@
+
+
+body{
+  text-align: center;
+  background: url(images/20150809_131819000_iOS.jpg);
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+#leftalign{
+    text-align: left;
+}
+
+.OrderedLists
+{
+    text-align: left;
+}
+
+h1, p, ul {
+    color: darkslateblue;
+}
+
+ul {
+    	color: darkslateblue;
+   	text-align: center;
+ 	list-style-type: none;
+}
+hr{
+  width: 330px;
+}
