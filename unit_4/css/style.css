@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+
+body{
+  text-align: center;
+  background: url(images/20150809_131819000_iOS.jpg);
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
+#leftalign{
+    text-align: left;
+}
+
+.OrderedLists
+{
+    text-align: left;
+}
+
+img{
+    width: 100%;
+    background-blend-mode: color;
+   
+}
+
+h2{
+    
+    font-size: 40px;
+    font-family: 'Slabo 27px', serif;
+}
+
+h3{
+    font-family: 'Tangerine', serif;
+    font-size: 60px;
+  
+}
+
+header, h1, h3, h2, p, ul {
+    color: darkslateblue;
+}
+
+ul {
+   	color: darkslateblue;
+   	text-align: center;
+ 	list-style-type: none;
+}
+
+.hrClass {
+   	border:none;
+	height:3px;
+	background-color:white;
+	
+	margin:1em auto;
+}
+
+#hrwidth{
+  width: 330px;
+   
+}
+
+#future{
+font-family: 'Tahoma', serif;
+  font-size: 24px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+div{
+    font-family: 'Tangerine', serif;
+    font-size: 32px;
+    text-shadow: 4px 4px 4px #aaa;
+}
